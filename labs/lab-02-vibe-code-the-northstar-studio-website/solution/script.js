@@ -1,0 +1,1 @@
+const form=document.querySelector('form');const status=document.querySelector('#status');form.addEventListener('submit',event=>{event.preventDefault();status.textContent='';if(!form.checkValidity()){status.textContent='Please complete the required name and email fields.';return;}status.textContent='Thanks. This training form does not send data.';form.reset();});

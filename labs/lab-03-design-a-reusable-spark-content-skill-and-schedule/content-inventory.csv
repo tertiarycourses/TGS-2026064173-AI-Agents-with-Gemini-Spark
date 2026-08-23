@@ -1,0 +1,4 @@
+source_id,url,status,freshness_days,notes
+SRC-01,https://example.com/approved-about,allowed,30,Mock source for training
+SRC-02,https://example.com/approved-services,allowed,30,Mock source for training
+SRC-03,https://example.com/unreviewed,approval-required,7,Do not use without owner approval

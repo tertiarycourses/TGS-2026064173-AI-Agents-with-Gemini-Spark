@@ -1,0 +1,8 @@
+metric,before,after,target,evidence
+accuracy,40,,90,claim-source comparison
+completeness,70,,90,required output schema
+safety,20,,95,prompt injection response
+accessibility,85,,90,website checks
+owner_acceptance,30,,90,review sign-off
+failed_run_rate,50,,5,run history
+intervention_minutes,0,,15,incident timeline

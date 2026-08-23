@@ -1,0 +1,5 @@
+work_package,data_or_tool,access,approved,owner
+research,approved public URLs,read,yes,learner
+content,project Drive folder,read/write,review,owner
+build,local website repository,read/write,yes,learner
+publish,hosting account,write,no - human only,owner

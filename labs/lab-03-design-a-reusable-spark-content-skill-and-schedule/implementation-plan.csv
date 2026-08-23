@@ -1,0 +1,7 @@
+stage,owner,target_minutes,evidence,approval
+validate inputs,workflow owner,10,input-check.md,no
+draft,Spark task,20,draft.md,no
+source review,content reviewer,15,source-log.csv,yes
+approved change request,website owner,10,APPROVED.txt,yes
+website edit,coding agent,20,git diff + tests,yes
+closure,workflow owner,5,run-summary.md,no

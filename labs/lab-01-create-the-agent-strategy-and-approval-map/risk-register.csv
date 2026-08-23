@@ -1,0 +1,5 @@
+action,class,likelihood,impact,control,approval
+read public source,observe,low,low,source allow-list,no
+edit website files,modify,medium,medium,diff + tests,yes
+submit contact form,communicate,medium,high,human executes,yes
+publish website,publish,medium,high,release checklist + rollback,yes

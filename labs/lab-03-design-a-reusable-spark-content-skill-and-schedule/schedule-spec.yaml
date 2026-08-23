@@ -1,0 +1,9 @@
+name: weekly-website-content-draft
+timezone: Asia/Singapore
+trigger: "Monday 09:00"
+task: "Run /website-content-draft for one approved topic"
+run_key: "website-draft-${YYYY}-${ISO_WEEK}"
+concurrency: 1
+on_overlap: skip-and-notify
+publish: false
+human_gate: "Review/APPROVED.txt"
