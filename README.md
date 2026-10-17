@@ -3,7 +3,7 @@
 # AI Agents with Gemini Spark
 
 ![Course Code](https://img.shields.io/badge/Course-TGS--2026064173-1f6feb)
-![Slides](https://img.shields.io/badge/Slides-97-7c3aed)
+![Slides](https://img.shields.io/badge/Slides-98-7c3aed)
 ![Labs](https://img.shields.io/badge/Hands--on_Labs-4-10b981)
 ![Web](https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JavaScript-f59e0b)
 
@@ -12,6 +12,14 @@
 [Course page](https://www.tertiarycourses.com.sg/casl-ai-agents-with-gemini-spark.html) · [Report an issue](https://github.com/tertiarycourses/TGS-2026064173-AI-Agents-with-Gemini-Spark/issues)
 
 </div>
+
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2026064173` |
+| Programme | WSQ |
+| Duration | 1 day, 8 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/casl-ai-agents-with-gemini-spark.html) |
+| Funding | Up to 70% SkillsFuture funding for eligible learners. Eligibility and terms apply. |
 
 ## Website lab preview
 
@@ -125,6 +133,10 @@ python3 scripts/check_site.py working-site
 ## Responsible use
 
 Use mock data in the labs. Never place passwords, payment details, personal data, private API keys, or assessment answer keys in an agent task thread. Keep public communications, publishing, transactions, and sensitive edits behind explicit human approval.
+
+## Distribution boundary
+
+The slides, Learner Guide, Lesson Plan and labs are published here. Assessment papers and answer keys (`assessment/`) and source references (`reference/`) are private and are never pushed to this repository.
 
 ## Developed by
 
