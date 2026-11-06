@@ -32,14 +32,27 @@ You need a browser and a personal Google Account on Google AI Pro or Ultra. You 
 
 ## Labs
 
-One story runs through all four: you are the founder of Northstar Studio, a fictional Singapore design business, and Spark is your first hire. Each lab folder holds an instructions PDF and mock data. Copy every prompt from the [Lab Prompts page](https://tertiarycourses.github.io/TGS-2026064173-AI-Agents-with-Gemini-Spark/labs/prompts.html), or open [labs/prompts.html](labs/prompts.html) offline.
+One story runs through all fifteen labs, fourteen in class and one after: you are the founder of Northstar Studio, a fictional Singapore design business, and Spark is your first hire. Each lab folder holds an instructions PDF and mock data. Copy every prompt from the [Lab Prompts page](https://tertiarycourses.github.io/TGS-2026064173-AI-Agents-with-Gemini-Spark/labs/prompts.html), or open [labs/prompts.html](labs/prompts.html) offline.
 
+<!-- LABS -->
 | Lab | Google apps | Time | Instructions |
 |---|---|---|---|
-| [Lab 1: Your Always-On Chief of Staff in Gmail, Calendar and Docs](labs/lab01-gmail-calendar-chief-of-staff) | Gmail, Calendar, Drive, Docs | 40 min | [PDF](labs/lab01-gmail-calendar-chief-of-staff/LAB-01-Instructions.pdf) |
-| [Lab 2: Build the Launch Kit in Sheets, Slides, Docs and Sites](labs/lab02-sheets-slides-sites-launch-kit) | Sheets, Slides, Docs, Sites, Drive | 60 min | [PDF](labs/lab02-sheets-slides-sites-launch-kit/LAB-02-Instructions.pdf) |
-| [Lab 3: Put Northstar on Autopilot with Schedules and Monitors](labs/lab03-schedules-and-monitors-on-autopilot) | Gmail, Sheets, Docs, Drive | 30 min | [PDF](labs/lab03-schedules-and-monitors-on-autopilot/LAB-03-Instructions.pdf) |
-| [Lab 4: Catch the Hidden Instruction, Contain It and Prove the Savings](labs/lab04-hidden-instruction-containment) | Drive, Docs, Sheets, Gmail | 30 min | [PDF](labs/lab04-hidden-instruction-containment/LAB-04-Instructions.pdf) |
+| [Lab 1: Gmail: Hand Spark Your Inbox, Then Tell It No](labs/lab01-gmail-first-inbox-brief) | Gmail, Drive | 15 min | [PDF](labs/lab01-gmail-first-inbox-brief/LAB-01-Instructions.pdf) |
+| [Lab 2: Calendar: Catch the Double-Booking Before You Say Yes](labs/lab02-calendar-clash-guard) | Calendar | 10 min | [PDF](labs/lab02-calendar-clash-guard/LAB-02-Instructions.pdf) |
+| [Lab 3: Docs: Write the Contract Your Agent Works Under](labs/lab03-docs-agent-task-contract) | Docs, Drive | 15 min | [PDF](labs/lab03-docs-agent-task-contract/LAB-03-Instructions.pdf) |
+| [Lab 4: Skills: Teach Spark to Write Like Northstar](labs/lab04-skill-northstar-voice) | Gmail | 10 min | [PDF](labs/lab04-skill-northstar-voice/LAB-04-Instructions.pdf) |
+| [Lab 5: Sheets: Turn a Messy Export into a Dashboard](labs/lab05-sheets-launch-dashboard) | Sheets, Drive | 15 min | [PDF](labs/lab05-sheets-launch-dashboard/LAB-05-Instructions.pdf) |
+| [Lab 6: Slides: Build the Client Deck from Your Sheet](labs/lab06-slides-capability-deck) | Slides, Sheets | 15 min | [PDF](labs/lab06-slides-capability-deck/LAB-06-Instructions.pdf) |
+| [Lab 7: Sites: Spark Writes the Website, You Build and Publish It](labs/lab07-sites-launch-website) | Docs, Sites, Slides, Sheets | 20 min | [PDF](labs/lab07-sites-launch-website/LAB-07-Instructions.pdf) |
+| [Lab 8: Schedules: Close the Lid and See What Always-On Means](labs/lab08-close-the-lid-morning-brief) | Docs, Gmail, Calendar, Drive | 8 min | [PDF](labs/lab08-close-the-lid-morning-brief/LAB-08-Instructions.pdf) |
+| [Lab 9: Skills + Schedules: Weekly Posts with a No-Overlap Rule](labs/lab09-weekly-posts-no-overlap) | Docs, Drive | 8 min | [PDF](labs/lab09-weekly-posts-no-overlap/LAB-09-Instructions.pdf) |
+| [Lab 10: Monitors: One Email Updates Your Sheet and Your Drafts](labs/lab10-gmail-monitor-lead-log) | Gmail, Sheets | 7 min | [PDF](labs/lab10-gmail-monitor-lead-log/LAB-10-Instructions.pdf) |
+| [Lab 11: Sheets: Plan the Rollout, Own the Gate and the Rollback](labs/lab11-sheets-implementation-plan) | Sheets | 7 min | [PDF](labs/lab11-sheets-implementation-plan/LAB-11-Instructions.pdf) |
+| [Lab 12: Containment: Catch the Hidden Instruction in a Supplier's Doc](labs/lab12-hidden-instruction-containment) | Drive, Docs | 15 min | [PDF](labs/lab12-hidden-instruction-containment/LAB-12-Instructions.pdf) |
+| [Lab 13: Complaint: Hold the Reply, Fix One Control, Run the Same Test](labs/lab13-complaint-and-control-fix) | Gmail, Docs | 8 min | [PDF](labs/lab13-complaint-and-control-fix/LAB-13-Instructions.pdf) |
+| [Lab 14: Scorecard: Do the Maths on Whether Spark Earns Its Keep](labs/lab14-sheets-scorecard) | Sheets | 7 min | [PDF](labs/lab14-sheets-scorecard/LAB-14-Instructions.pdf) |
+| [Lab 15: After Class: Task, Then Skill, Then Schedule on Your Expense Log](labs/lab15-after-class-expense-log) | Gmail, Sheets | After class | [PDF](labs/lab15-after-class-expense-log/LAB-15-Instructions.pdf) |
+<!-- /LABS -->
 
 ## What is in this repository
 
@@ -48,8 +61,9 @@ One story runs through all four: you are the founder of Northstar Studio, a fict
 | Slide deck | [PPTX](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pptx) · [PDF](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
 | Learner Guide | [DOCX](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) · [Markdown](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.md) |
 | Lesson Plan | [DOCX](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
+| Facilitator Guide | [DOCX](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v2.docx) · [PDF](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v2.pdf) |
 | Labs | [labs/](labs) |
 
-**Distribution boundary.** Assessment papers, answer keys, the Facilitator Guide and the Assessment Plan are trainer-only. They live on Google Drive and the LMS and are never published here.
+**Distribution boundary.** Assessment papers, answer keys and the Assessment Plan are trainer-only. They live on Google Drive and the LMS and are never published here.
 
 Provided by [Tertiary Infotech Academy Pte Ltd](https://www.tertiaryinfotech.com/) · UEN 201200696W · enquiry@tertiaryinfotech.com

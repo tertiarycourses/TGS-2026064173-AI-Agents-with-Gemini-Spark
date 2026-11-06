@@ -17,9 +17,8 @@ course_application/
 ~$*
 **/~$*
 
-# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
-# trainer-only (Google Drive + TMS), never GitHub
-**/FG_*
-**/FG-*
+# The Assessment Plan embeds the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub. The Facilitator Guide has no annexes and is published.
 **/Assessment_Plan_*
 **/AP-*
+**/pushed_links.json
