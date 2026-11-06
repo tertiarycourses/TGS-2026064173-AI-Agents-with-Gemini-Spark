@@ -1,145 +1,55 @@
-<div align="center">
-
 # AI Agents with Gemini Spark
 
-![Course Code](https://img.shields.io/badge/Course-TGS--2026064173-1f6feb)
-![Slides](https://img.shields.io/badge/Slides-98-7c3aed)
-![Labs](https://img.shields.io/badge/Hands--on_Labs-4-10b981)
-![Web](https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JavaScript-f59e0b)
-
-**Build bounded AI-agent workflows, vibe-code a responsive website, and keep consequential actions under human review.**
-
-[Course page](https://www.tertiarycourses.com.sg/casl-ai-agents-with-gemini-spark.html) · [Report an issue](https://github.com/tertiarycourses/TGS-2026064173-AI-Agents-with-Gemini-Spark/issues)
-
-</div>
+Put Google's always-on agent to work across Gmail, Calendar, Drive, Docs, Sheets, Slides and Sites, with you in control of everything that leaves your account.
 
 | Course detail | Information |
 |---|---|
 | Course code | `TGS-2026064173` |
-| Programme | WSQ |
-| Duration | 1 day, 8 hours |
+| Programme | CASL (SkillsFuture-funded) |
+| Duration | 1 day, 8 hours, including assessment. Also runs over two evenings |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/casl-ai-agents-with-gemini-spark.html) |
-| Funding | Up to 70% SkillsFuture funding for eligible learners. Eligibility and terms apply. |
+| Funding | Up to 70% course fee funding for eligible learners; funding valid to 11 Jun 2027. Eligibility and terms apply. |
 
-## Website lab preview
+## About the course
 
-![Northstar Studio responsive website](screenshot.png)
+You start with how AI got here: agentic AI vs AI agents, real use cases, and how Gemini Spark compares with OpenAI Dots, Grok Bot, Claude Duet and Manus Cue. The rest of the day is all Gemini Spark. You hand it goals, teach it your standards, put the repeat work on a schedule, and practise containing it when something goes wrong.
 
-The screenshot is captured from the supplied, locally tested Lab 2 solution.
+You need a browser and a personal Google Account on Google AI Pro or Ultra. You do not need VS Code, Git, a terminal or a coding agent.
 
-## About
+## Learning outcomes
 
-This repository contains the public learner materials and hands-on labs for Tertiary Infotech Academy's **AI Agents with Gemini Spark** course. The course combines Gemini Spark task design with a controlled vibe-coding workflow using Claude Code, Codex, or Antigravity.
+- **LO1:** Determine an AI-agent strategy: which work to hand to Gemini Spark, through which platforms, with which permissions and approval points.
+- **LO2:** Develop agent skills, tasks and content, and integrate them across Gmail, Docs, Sheets, Slides, Sites and Drive.
+- **LO3:** Develop an implementation plan for always-on Gemini Spark workflows, covering schedules, monitors, responsibilities, timelines, targets and rollback.
+- **LO4:** Evaluate agent performance using task outcomes, error rates and review effort, contain incidents, and optimise the workflow.
 
-Learners practise how to:
+## Topics covered
 
-- translate a web-design outcome into bounded tasks, permissions, risks, stop rules, and approval gates;
-- build and test a responsive HTML/CSS/JavaScript website through small, reviewable AI-assisted changes;
-- design a reusable Gemini Spark skill and a safe, non-overlapping schedule;
-- monitor an agent run, detect prompt injection, contain an incident, recover, and verify one improvement.
-
-## Operating model
-
-```text
-Business outcome
-      │
-      ▼
-Bounded task contract ──► Gemini Spark research / coordination
-      │                              │
-      │                              ▼
-      ├──────────────► Coding agent proposes repository changes
-      │                              │
-      ▼                              ▼
-Permission + risk gates ──► Diff review + browser checks
-      │                              │
-      └──────────────► Human approval / stop / rollback
-                                     │
-                                     ▼
-                           Verified website evidence
-```
-
-## Course materials
-
-| Artifact | Purpose |
-|---|---|
-| `courseware/AI Agents with Gemini Spark-v1.0.pptx` | Concept-led, highly visual trainer deck |
-| `courseware/AI Agents with Gemini Spark-v1.0.pdf` | Learner-slide PDF mirror |
-| `courseware/LG-AI Agents with Gemini Spark-v1.0.*` | Detailed Learner Guide in DOCX/PDF |
-| `courseware/LEARNER-GUIDE.md` | Searchable Markdown mirror of the Learner Guide |
-| `courseware/LP-AI Agents with Gemini Spark-v1.0.*` | One-day Lesson Plan in DOCX/PDF |
-| `labs/` | Four self-contained practical lab folders |
-
-Assessments and trainer-only answer keys are intentionally not published in this repository.
+1. AI Agent Strategy and Gemini Spark Fundamentals
+2. Building Agent Skills, Tasks and Tool Integrations
+3. Agent Workflow Implementation, Scheduling and Governance
+4. Agent Monitoring, Performance Evaluation and Optimisation
 
 ## Labs
 
-1. **Create the Agent Strategy and Approval Map** — define the task contract, responsibility boundary, least-privilege permissions, risks, stop rules, and evidence.
-2. **Vibe Code the Northstar Studio Website** — use Claude Code, Codex, or Antigravity to implement small reviewed changes and test the site at desktop, tablet, and mobile widths.
-3. **Design a Reusable Spark Content Skill and Schedule** — specify a trigger contract, output schema, source log, draft-only route, approval gate, and concurrency rule.
-4. **Monitor, Contain and Optimise an Agent Run** — detect a tainted source, stop the run, preserve evidence, restore the approved state, and verify a preventive control.
+One story runs through all four: you are the founder of Northstar Studio, a fictional Singapore design business, and Spark is your first hire. Each lab folder holds an instructions PDF and mock data. Copy every prompt from the [Lab Prompts page](https://tertiarycourses.github.io/TGS-2026064173-AI-Agents-with-Gemini-Spark/labs/prompts.html), or open [labs/prompts.html](labs/prompts.html) offline.
 
-Every lab includes a detailed `README.md`, a PDF guide, working files, mock data, evidence templates, and acceptance criteria.
+| Lab | Google apps | Time | Instructions |
+|---|---|---|---|
+| [Lab 1: Your Always-On Chief of Staff in Gmail, Calendar and Docs](labs/lab01-gmail-calendar-chief-of-staff) | Gmail, Calendar, Drive, Docs | 40 min | [PDF](labs/lab01-gmail-calendar-chief-of-staff/LAB-01-Instructions.pdf) |
+| [Lab 2: Build the Launch Kit in Sheets, Slides, Docs and Sites](labs/lab02-sheets-slides-sites-launch-kit) | Sheets, Slides, Docs, Sites, Drive | 60 min | [PDF](labs/lab02-sheets-slides-sites-launch-kit/LAB-02-Instructions.pdf) |
+| [Lab 3: Put Northstar on Autopilot with Schedules and Monitors](labs/lab03-schedules-and-monitors-on-autopilot) | Gmail, Sheets, Docs, Drive | 30 min | [PDF](labs/lab03-schedules-and-monitors-on-autopilot/LAB-03-Instructions.pdf) |
+| [Lab 4: Catch the Hidden Instruction, Contain It and Prove the Savings](labs/lab04-hidden-instruction-containment) | Drive, Docs, Sheets, Gmail | 30 min | [PDF](labs/lab04-hidden-instruction-containment/LAB-04-Instructions.pdf) |
 
-## Getting started
+## What is in this repository
 
-### Prerequisites
+| Item | Files |
+|---|---|
+| Slide deck | [PPTX](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pptx) · [PDF](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
+| Learner Guide | [DOCX](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) · [Markdown](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.md) |
+| Lesson Plan | [DOCX](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
+| Labs | [labs/](labs) |
 
-- Git and Python 3
-- A modern web browser
-- One coding agent: Claude Code, Codex, or Antigravity
-- Gemini Spark access where available; Lab 3 includes an offline design path when it is not
+**Distribution boundary.** Assessment papers, answer keys, the Facilitator Guide and the Assessment Plan are trainer-only. They live on Google Drive and the LMS and are never published here.
 
-### Clone the materials
-
-```bash
-git clone https://github.com/tertiarycourses/TGS-2026064173-AI-Agents-with-Gemini-Spark.git
-cd TGS-2026064173-AI-Agents-with-Gemini-Spark
-```
-
-### Run the website lab
-
-```bash
-cd labs/lab-02-vibe-code-the-northstar-studio-website
-cp -R starter working-site
-python3 -m http.server 8000 --directory working-site
-```
-
-Open <http://localhost:8000>, then run the supplied structural check in another terminal:
-
-```bash
-python3 scripts/check_site.py working-site
-```
-
-## Repository structure
-
-```text
-.
-├── courseware/
-│   ├── assets/
-│   ├── AI Agents with Gemini Spark-v1.0.pptx
-│   ├── AI Agents with Gemini Spark-v1.0.pdf
-│   ├── LEARNER-GUIDE.md
-│   ├── LG-AI Agents with Gemini Spark-v1.0.docx
-│   ├── LG-AI Agents with Gemini Spark-v1.0.pdf
-│   ├── LP-AI Agents with Gemini Spark-v1.0.docx
-│   └── LP-AI Agents with Gemini Spark-v1.0.pdf
-└── labs/
-    ├── lab-01-create-the-agent-strategy-and-approval-map/
-    ├── lab-02-vibe-code-the-northstar-studio-website/
-    ├── lab-03-design-a-reusable-spark-content-skill-and-schedule/
-    └── lab-04-monitor-contain-and-optimise-an-agent-run/
-```
-
-## Responsible use
-
-Use mock data in the labs. Never place passwords, payment details, personal data, private API keys, or assessment answer keys in an agent task thread. Keep public communications, publishing, transactions, and sensitive edits behind explicit human approval.
-
-## Distribution boundary
-
-The slides, Learner Guide, Lesson Plan and labs are published here. Assessment papers and answer keys (`assessment/`) and source references (`reference/`) are private and are never pushed to this repository.
-
-## Developed by
-
-[Tertiary Infotech Academy Pte. Ltd.](https://www.tertiarycourses.com.sg/) · UEN 201200696W
-
-Course research draws on the official [Gemini Spark overview](https://gemini.google/overview/agent/spark/) and [Google Gemini Help](https://support.google.com/gemini/answer/17094507?hl=en&co=GENIE.Platform=Android), with the complete source list embedded in the slide deck and Learner Guide.
+Provided by [Tertiary Infotech Academy Pte Ltd](https://www.tertiaryinfotech.com/) · UEN 201200696W · enquiry@tertiaryinfotech.com
