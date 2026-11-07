@@ -12,7 +12,7 @@ Put Google's always-on agent to work across Gmail, Calendar, Drive, Docs, Sheets
 
 ## About the course
 
-You start with how AI got here: agentic AI vs AI agents, real use cases, and how Gemini Spark compares with OpenAI Dots, Grok Bot, Claude Duet and Manus Cue. The rest of the day is all Gemini Spark. You hand it goals, teach it your standards, put the repeat work on a schedule, and practise containing it when something goes wrong.
+You start with how AI got here: agentic AI vs AI agents, real use cases, and how Gemini Spark compares with Meta Muse, OpenAI Dots, Grok Bot and Manus Cue. The rest of the day is all Gemini Spark. You hand it goals, teach it your standards, put the repeat work on a schedule, and practise containing it when something goes wrong.
 
 You need a browser and a personal Google Account on Google AI Pro or Ultra. You do not need VS Code, Git, a terminal or a coding agent.
 
@@ -58,10 +58,10 @@ One story runs through all fifteen labs, fourteen in class and one after: you ar
 
 | Item | Files |
 |---|---|
-| Slide deck | [PPTX](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pptx) · [PDF](courseware/AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
-| Learner Guide | [DOCX](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) · [Markdown](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v3.0.md) |
-| Lesson Plan | [DOCX](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.docx) · [PDF](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v3.0.pdf) |
-| Facilitator Guide | [DOCX](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v2.docx) · [PDF](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v2.pdf) |
+| Slide deck | [PPTX](courseware/AI%20Agents%20with%20Gemini%20Spark-v25.pptx) · [PDF](courseware/AI%20Agents%20with%20Gemini%20Spark-v25.pdf) |
+| Learner Guide | [DOCX](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v25.docx) · [PDF](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v25.pdf) · [Markdown](courseware/LG-AI%20Agents%20with%20Gemini%20Spark-v25.md) |
+| Lesson Plan | [DOCX](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v25.docx) · [PDF](courseware/LP-AI%20Agents%20with%20Gemini%20Spark-v25.pdf) |
+| Facilitator Guide | [DOCX](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v3.docx) · [PDF](courseware/FG_TGS-2026064173_AI%20Agents%20with%20Gemini%20Spark_v3.pdf) |
 | Labs | [labs/](labs) |
 
 **Distribution boundary.** Assessment papers, answer keys and the Assessment Plan are trainer-only. They live on Google Drive and the LMS and are never published here.

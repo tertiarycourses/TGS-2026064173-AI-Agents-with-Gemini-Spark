@@ -1,7 +1,7 @@
 # Learner Guide - AI Agents with Gemini Spark
 
 **Course code:** TGS-2026064173  
-**Version:** v3.0  
+**Version:** v25  
 **Duration:** 8 hours, including assessment
 
 ## Course learning outcomes
@@ -14,6 +14,28 @@
 ## Before you start
 
 You need a modern browser and a personal Google Account with Google AI Pro or Ultra, Keep Activity on and Personal Intelligence on. You do not need VS Code, Git, a terminal or a coding agent. Use only the seed emails and mock data in each lab folder. Keep passwords and payment details out of task threads. Google now labels Spark as Task, below the Gemini text box.
+
+### Start your Google AI Pro free trial
+
+One month is the offer reported in September 2026; Google's checkout shows your exact dates before you pay. Sign in with a personal Google Account (18+), go to one.google.com/ai, select Google AI Pro, read the free period, price and first payment date, click Agree, add a payment method and click Subscribe. Google charges the standard monthly price the day the trial ends unless you cancel first: gemini.google.com → Settings → Manage subscription → Cancel membership.
+
+### Twenty-minute setup, before class
+
+- Add a Chrome profile named Northstar Lab.
+- At gemini.google.com, click Task below the prompt box. The box should read "Describe a task".
+- Gear icon → Activity: Keep activity shows On.
+- Gear icon → Personal Intelligence → Connected Apps: Gmail, Drive, Docs, Sheets and Calendar on. Re-check, because this step can switch off earlier connections.
+- Create the Drive folder Gemini Spark Workspace/Northstar.
+- Ask Spark to list your 5 latest email subjects, then that folder's files. Change nothing.
+
+### When a lab stalls
+
+- **No Chat | Task buttons:** Check the avatar and the plan. Sign out and in, then refresh.
+- **"You've reached your limit":** Limits refresh every 5 hours until your weekly cap. Tell your trainer and pair up.
+- **Spark can't find a file:** Check the exact name, with no "Copy of". Put the name in quotes in your prompt.
+- **Spark asks "Confirm changes?":** That is your approval gate working. Read the change, then confirm or decline.
+- **Spark asks for a password:** Never type it in the thread. Click Stop, or use View live → Take over task.
+- **@ shows no skills:** Finish creating the skill first. Refresh, then type @ again.
 
 ## Topic concepts
 
@@ -65,7 +87,7 @@ You are the founder of Northstar Studio, a fictional two-person design business 
 
 #### Step 1 - Clear the gates and connect Workspace (3 min)
 
-gemini.google.com. Sign in with your personal Google Account on an AI Pro or Ultra plan. Confirm Task appears below the text box. Open Settings, search for Connected Apps and turn on Google Workspace. Leave third-party apps off. In Drive, create the folder Gemini Spark Workspace/Northstar and upload this lab's data folder.
+gemini.google.com. Sign in with your personal Google Account on an AI Pro or Ultra plan. Confirm Task appears below the text box. Open Settings, search for Connected Apps and turn on Google Workspace. Leave third-party apps off. Turning on Personal Intelligence can switch off earlier connections, so re-check here. In Drive, create the folder Gemini Spark Workspace/Northstar and upload this lab's data folder.
 
 **Expect:** Task is visible and Google Workspace shows as connected. No Task button? Check age 18+, a personal account, Keep Activity on, Personal Intelligence on, then call your trainer.
 
@@ -576,11 +598,16 @@ Every Sunday around 8 AM Singapore time, use @northstar-expenses to update North
 
 ## Assessment flow
 
-1. Record assessment attendance through TRAQOM.
+1. Complete the TRAQOM survey, then take the assessment digital attendance (SSG QR).
 2. Complete the 60-minute Practical Performance covering A1-A4.
 3. Complete the 20-minute Oral Questioning covering K1-K6.
 4. Submit candidate papers and practical evidence on the LMS.
 5. Review feedback and sign the Assessment Summary Record.
+
+## After the course
+
+- Pause or delete your lab schedules, so nothing runs after class.
+- On a free trial? Decide before it ends: keep the plan, or cancel at Settings → Manage subscription.
 
 ## References
 
